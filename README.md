@@ -45,6 +45,6 @@ bash scripts/check.sh
 - [架构边界](docs/architecture.md)与[仓库治理](docs/governance.md)
 - [安全与数据](SECURITY.md)、[上游来源](UPSTREAM.md)、[许可状态](LICENSE.md)
 - [版本与发行](docs/releases.md)
-- [Issues](https://github.com/wildsyn/wildflow-studio/issues)与[PR](https://github.com/wildsyn/wildflow-studio/pulls)
+- [Issues](https://github.com/wildflow-ai/wildflow-studio/issues)与[PR](https://github.com/wildflow-ai/wildflow-studio/pulls)
 
 个人使用的开箱包暂不建仓。本仓不包含真实客户内容或私人配置。

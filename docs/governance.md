@@ -2,8 +2,8 @@
 
 ## Owner 与权限
 
-[CODEOWNERS](../.github/CODEOWNERS) 指向组织现有团队 `@wildsyn/wildflow-developers`，
-该团队拥有仓库 Write 权限，组织管理员保留管理职责。成员变化由组织统一管理。
+[CODEOWNERS](../.github/CODEOWNERS) 指向已确认的主维护人 `@zxdwhda`，该账号拥有新组织管理员权限。
+2026-10-06 迁移后暂不恢复旧组织团队授权，后续维护人变化按负责人明确决定调整。
 仓库为 Public，原创骨架按 [MIT](../LICENSE) 开源，不公开业务资料或凭据。
 
 ## 主分支保护
